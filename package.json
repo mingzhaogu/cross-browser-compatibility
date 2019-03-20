@@ -1,0 +1,20 @@
+{
+    "name": "@anniegu/cross-browser-compatibility",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "repository": "mingzhaogu/cross-browser-compatibility",
+    "keywords": [],
+    "author": {
+        "name": "Annie Gu",
+        "url": "https://github.com/mingzhaogu"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mingzhaogu/cross-browser-compatibility/issues"
+    },
+    "homepage": "https://github.com/mingzhaogu/cross-browser-compatibility"
+}
